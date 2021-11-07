@@ -13,8 +13,8 @@
 <p align="center"><img src="src/Assets/home-main.gif"></p>
 
 
-<p align="center"> ## Connect With Me
-<a href="https://www.instagram.com/moh_irvan09" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
+<p align="center"> ## Connect With Me</p>
+<p align="center"><a href="https://www.instagram.com/moh_irvan09" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://web.facebook.com/uninstaller.user/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32px" alt="Facebook"></a>
 <a href="https://github.com/mohammad-irvan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32px" alt="Facebook"></a></p>
 
