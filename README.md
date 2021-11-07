@@ -9,7 +9,7 @@
      
 - 📫 Please email mohirvan066@gmail.com to Hire me.
 
-# ![github stats](https://github-readme-stats.vercel.app/api?username=mohammad-irvan&show_icons=true&theme=radical)   ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-irvan&layout=compact&theme=nightowl)
+#![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-irvan&layout=compact&theme=nightowl)
 
 
 ## Connect With Me
